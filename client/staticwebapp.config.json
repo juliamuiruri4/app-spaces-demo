@@ -1,0 +1,13 @@
+{
+  "routes": [
+    {
+      "route": "/api/documents",
+      "methods": [
+        "get"
+      ],
+      "allowedRoles": [
+        "authenticated"
+      ]
+    }
+  ]
+}
